@@ -1,3 +1,5 @@
+![Screenshot from 2023-05-01 16-33-48](https://user-images.githubusercontent.com/115331322/235435627-57f239ff-5a4d-4ded-ba48-12edde362a94.png)
+
 # kurumi-desktop
 kurumi desktop adalah program asisten waifu yg ditampilkan didesktop computer.
 Diprogram dengan python3 dan module pyqt5
