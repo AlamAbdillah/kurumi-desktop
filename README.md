@@ -10,6 +10,7 @@ git clone https://github.com/AlamAbdillah/kurumi-desktop.git
 ```
 
 ## Install requirements
+### instal python version >3
 windows
 ```sh
 pip install -r requirements.txt
