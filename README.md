@@ -10,8 +10,10 @@ git clone https://github.com/AlamAbdillah/kurumi-desktop.git
 ```
 
 ## Install requirements
-### instal python version >3
-windows
+instal python version >3
+module
+* playsound
+* pyqt5
 ```sh
 pip install -r requirements.txt
 ```
