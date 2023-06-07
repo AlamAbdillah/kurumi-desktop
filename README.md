@@ -10,7 +10,7 @@ git clone https://github.com/AlamAbdillah/kurumi-desktop.git
 ```
 
 ## Install requirements
-python version >3
+python version > 3
 module
 * playsound
 * pyqt5
@@ -21,11 +21,11 @@ ubuntu
 ```sh
 pip3 install -r requeriments.txt
 ```
-## Path directory
-edit path directory: main.py line 10 </br>
-```python
-self.path = "Documents/coding/pyqt5/"
+ubuntu setel qt_platfrom ke xcb dengan export ... ke environment variabel
+```sh
+export QT_QPA_PLATFORM=xcb
 ```
+## Path directory
 jika menjalankan directory yang sama kosongkan path 
 ```python
 self.path = ""
