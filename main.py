@@ -7,7 +7,7 @@ from PyQt5.QtGui import QIcon, QMovie
 
 class MainWindow(QMainWindow, QWidget):
     def __init__(self):
-        self.path = "Documents/coding/pyqt5/"
+        self.path = ""
 
         QTimer.singleShot(3000, lambda: playsound(self.path + "audio/Okaeri onii Chan.mp3"))
 
